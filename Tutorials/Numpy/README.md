@@ -1,4 +1,6 @@
 ## References to Numpy
 ---
 ### Ueful Functions
-- np.array([1,2,3])
+|Input   |Function   |Output            |
+|--------|-----------|------------------|
+|a=[1,2] |np.array(a)|'a' as n nparray |
