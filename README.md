@@ -10,6 +10,7 @@
 1. Numpy
 [<img align="left" alt="Visual Studio Code" width="65px" src="https://miro.medium.com/max/760/1*00pL0zLnfI7y8d5G1aQrHA.jpeg" />][numpy]
 
+<<<<<<< HEAD
 [numpy]: https://github.com/bekiekB1/Turorials/blob/master/Tutorials/Numpy/Numpy_ref_tut.ipynb
 
 <br />
@@ -48,3 +49,6 @@
 Credits to Author:
 - 11-785 CMU Recitations Fall and Spring 2020
 -
+=======
+[numpy]: https://nbviewer.jupyter.org/github/bekiekB1/Turorials/blob/master/Tutorials/Numpy/Numpy_ref_tut-.ipynb
+>>>>>>> cabd62dc392212863060f3e2cbda435f2f33f8cb
