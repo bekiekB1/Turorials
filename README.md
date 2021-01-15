@@ -23,7 +23,7 @@
 3.  Pytorch 
 [<img align="left" alt="Visual Studio Code" width="65px" src="https://miro.medium.com/max/1200/1*jcZLpgh3gppeFFgcpFSP0w.jpeg" />][pytorch]
 
-[pytorch]: https://github.com/bekiekB1/Turorials/blob/master/Tutorials/Numpy/Numpy_ref_tut.ipynb
+[pytorch]: https://github.com/bekiekB1/Tutorials/tree/master/Tutorials/pytorch
 <br />
 
 4.  AWS Setup   [<img align="left" alt="Visual Studio Code" width="50px" src="https://www.invoke.cloud/img/blog/ec2_image.jpeg" />][aws]
