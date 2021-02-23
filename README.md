@@ -34,6 +34,9 @@
 5. Google Collab   [<img align="left" alt="Visual Studio Code" width="65px" src="https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg" />][gc]
 
 [gc]: https://github.com/bekiekB1/Turorials/blob/master/Tutorials/Google_Collab/collab_Kaggle.ipynb
+
+Tips: Dealing with huge dataset upload on Drive(Usally takes long time and missing files/folder). Also, rederiction to supress the output
+!unzip gdrive/My\ Drive/Cmu/h2p2/data/11-785-fall-20-homework-2-part-2.zip > /dev/null 
 <br />
 
 6. Python   [<img align="left" alt="Visual Studio Code" width="50px" src="https://www.python.org/static/opengraph-icon-200x200.png" />][py]
