@@ -35,6 +35,7 @@
 
 [gc]: https://github.com/bekiekB1/Turorials/blob/master/Tutorials/Google_Collab/collab_Kaggle.ipynb
 
+<br />
 Tips: Dealing with huge dataset upload on Drive(Usally takes long time and missing files/folder). Also, rederiction to supress the output
 !unzip gdrive/My\ Drive/Cmu/h2p2/data/11-785-fall-20-homework-2-part-2.zip > /dev/null 
 <br />
